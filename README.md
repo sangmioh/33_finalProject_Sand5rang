@@ -16,7 +16,7 @@
 - 관리자- 가맹가입 신청해서 승인, 반려 처리(이메일로보내기)
 - 관리자- 가입신청리스트, 전체 조회하는 페이지와 기능
 
-## 내가 맡은 웹 구현
+## 내가 맡은 웹 구현 (코드도 같이 올림)
 ![faq](https://user-images.githubusercontent.com/97028831/183025222-74a022fb-27cb-4b02-a549-5fc40d4bedcf.png)
 ![가맹1](https://user-images.githubusercontent.com/97028831/183025470-c89521f1-3780-4d5f-8773-323741468088.png)
 ![가맹2](https://user-images.githubusercontent.com/97028831/183025485-64de0c96-76f5-4cbf-a1ad-d77e2841d588.png)
@@ -28,4 +28,3 @@
 ![관리자3-2](https://user-images.githubusercontent.com/97028831/183025608-fa318806-48f7-4460-a064-b5c241c00a47.png)
 
 
-##### 내가 맡은 코드들을 올렸습니다.
